@@ -1,3 +1,5 @@
+2.67    * add GD::Image->_file method as suggested in RT #60488 by Kevin Ryde
+          also the helper GD::supportsFileType
 2.66    * throw proper error on newFrom* with not-existing file
         * add t/transp.t from RT #40525
         * Improve RT #54366 multiple gd.h warning
